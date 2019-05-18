@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: c32c270a2a379824a960180029663c8d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 1092_DaJi_Show1
+    100002: aixin_zu
+    100004: aixinzhuan (1)
+    100006: aixinzhuan (1) 1
+    100008: Bone039
+    100010: Bone039 1
+    100012: Bone041
+    100014: Bone041 1
+    100016: Bone043
+    100018: Bone043 1
+    100020: Bone045
+    100022: Bone045 1
+    100024: Bone047
+    100026: Bone047 1
+    100028: Bone049
+    100030: Bone049 1
+    100032: Bone051
+    100034: Bone051 1
+    100036: Bone053
+    100038: Bone053 1
+    100040: Bone054
+    100042: Bone054 1
+    100044: Bone055
+    100046: Bone055 1
+    100048: Bone056
+    100050: Bone056 1
+    100052: Bone057
+    100054: Bone057 1
+    100056: Bone058
+    100058: Bone058 1
+    100060: Bone059
+    100062: Bone059 1
+    100064: Bone060
+    100066: Bone060 1
+    100068: Bone061
+    100070: Bone061 1
+    100072: Bone062
+    100074: Bone062 1
+    100076: Bone063
+    100078: Bone063 1
+    100080: Bone064
+    100082: Bone064 1
+    100084: Bone065
+    100086: Bone065 1
+    100088: Bone066
+    100090: Bone066 1
+    100092: Bone067
+    100094: Bone067 1
+    100096: Bone068
+    100098: Bone068 1
+    100100: come on_01
+    100102: //RootNode
+    100104: daji_CPGQ_xx_dh001
+    100106: guang_c
+    100108: guang_h (2)
+    100110: guang_z
+    100112: liangdian
+    100114: liangdian 1
+    100116: liangxingxing (1)
+    100118: liangxingxing (1) 1
+    100120: ms_CPGQ_xx_ax001_w
+    100122: ms_CPGQ_xx_ax001_waifaguang
+    100124: ms_CPGQ_xx_ax002
+    100126: ms_CPGQ_xx_ax002_wai
+    100128: ms_CPGQ_xx_ax002_wai (1)
+    100130: ms_CPGQ_xx_ax020
+    100132: ms_CPGQ_xx_ax020 (1)
+    100134: ms_CPGQ_xx_ax020 (2)
+    100136: ms_CPGQ_xx_ax020 1
+    100138: ms_CPGQ_xx_pl028
+    100140: ms_CPGQ_xx_wq001
+    100142: ms_CPGQ_xx_wq001_z
+    100144: tuowei (1)
+    100146: tuowei (1) 1
+    100148: xinkuo
+    100150: xinkuo_you
+    100152: yuanyuan
+    400000: 1092_DaJi_Show1
+    400002: aixin_zu
+    400004: aixinzhuan (1)
+    400006: aixinzhuan (1) 1
+    400008: Bone039
+    400010: Bone039 1
+    400012: Bone041
+    400014: Bone041 1
+    400016: Bone043
+    400018: Bone043 1
+    400020: Bone045
+    400022: Bone045 1
+    400024: Bone047
+    400026: Bone047 1
+    400028: Bone049
+    400030: Bone049 1
+    400032: Bone051
+    400034: Bone051 1
+    400036: Bone053
+    400038: Bone053 1
+    400040: Bone054
+    400042: Bone054 1
+    400044: Bone055
+    400046: Bone055 1
+    400048: Bone056
+    400050: Bone056 1
+    400052: Bone057
+    400054: Bone057 1
+    400056: Bone058
+    400058: Bone058 1
+    400060: Bone059
+    400062: Bone059 1
+    400064: Bone060
+    400066: Bone060 1
+    400068: Bone061
+    400070: Bone061 1
+    400072: Bone062
+    400074: Bone062 1
+    400076: Bone063
+    400078: Bone063 1
+    400080: Bone064
+    400082: Bone064 1
+    400084: Bone065
+    400086: Bone065 1
+    400088: Bone066
+    400090: Bone066 1
+    400092: Bone067
+    400094: Bone067 1
+    400096: Bone068
+    400098: Bone068 1
+    400100: come on_01
+    400102: //RootNode
+    400104: daji_CPGQ_xx_dh001
+    400106: guang_c
+    400108: guang_h (2)
+    400110: guang_z
+    400112: liangdian
+    400114: liangdian 1
+    400116: liangxingxing (1)
+    400118: liangxingxing (1) 1
+    400120: ms_CPGQ_xx_ax001_w
+    400122: ms_CPGQ_xx_ax001_waifaguang
+    400124: ms_CPGQ_xx_ax002
+    400126: ms_CPGQ_xx_ax002_wai
+    400128: ms_CPGQ_xx_ax002_wai (1)
+    400130: ms_CPGQ_xx_ax020
+    400132: ms_CPGQ_xx_ax020 (1)
+    400134: ms_CPGQ_xx_ax020 (2)
+    400136: ms_CPGQ_xx_ax020 1
+    400138: ms_CPGQ_xx_pl028
+    400140: ms_CPGQ_xx_wq001
+    400142: ms_CPGQ_xx_wq001_z
+    400144: tuowei (1)
+    400146: tuowei (1) 1
+    400148: xinkuo
+    400150: xinkuo_you
+    400152: yuanyuan
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
