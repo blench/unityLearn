@@ -13,7 +13,7 @@ public class Restart : MonoBehaviour
 		// Update is called once per frame
 		void Update ()
 		{
-	
+				OnGUI ();
 		}
 
 		void OnGUI ()
@@ -22,7 +22,7 @@ public class Restart : MonoBehaviour
 						Application.Quit ();
 				}
 				if (GUI.Button (new Rect (280, 100, 60, 30), "重新开始")) {
-						Application.LoadLevel ("01");
+						Application.LoadLevel ("1");
 				}
 				if (GUI.Button (new Rect (10, 160, 60, 50), "Play")) {
 						audio.Pause ();

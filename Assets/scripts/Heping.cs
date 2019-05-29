@@ -19,11 +19,11 @@ public class Heping : MonoBehaviour
 		void OnCollisionEnter ()
 		{
 				GameObject.Find ("wenzi").GetComponent<GUIText> ().text = "如果失去了和平，世界将会怎样";
-				GameObject.Find ("pxg").GetComponent<Light> () .enabled = false;
-				GameObject.Find ("Point light").GetComponent<Light> ().enabled = false;
-				GameObject.Find ("Point light1").GetComponent<Light> ().enabled = false;
+				//GameObject.Find ("pxg").GetComponent<Light> () .enabled = false;
+				//GameObject.Find ("Point light").GetComponent<Light> ().enabled = false;
+				//GameObject.Find ("Point light1").GetComponent<Light> ().enabled = false;
 				GameObject.Find ("Spotlight").GetComponent<Light> ().enabled = false;
-
+				//destroy gameObject
 				Destroy (gameObject);
 		}
 }

@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\scripts\Heping.cs" />
      <Compile Include="Assets\scripts\Jiancha.cs" />
+     <Compile Include="Assets\scripts\Menu01.cs" />
      <Compile Include="Assets\scripts\Restart.cs" />
      <Compile Include="Assets\scripts\Sheji.cs" />
      <Compile Include="Assets\scripts\Xh.cs" />
